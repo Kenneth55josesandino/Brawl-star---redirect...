@@ -1,1 +1,12 @@
-# Brawl-star---redirect...
+# Brawl-star---redirect...<!DOCTYPE html>
+<html>
+<head>
+    <title>Redireccionando...</title>
+    <meta http-equiv="refresh" content="5;url=https://a9fm.github.io/lightshot">
+</head>
+<body>
+    <script>
+        window.location.href = "https://link.brawlstars.com/invite/band/es?tag=2YGLCLVLR";
+    </script>
+</body>
+</html>
